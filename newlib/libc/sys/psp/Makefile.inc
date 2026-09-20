@@ -1,1 +1,1 @@
-libc_a_SOURCES += %D%/dummy.c
+libc_a_SOURCES += %D%/dummy.c %D%/netdb_compat.c
